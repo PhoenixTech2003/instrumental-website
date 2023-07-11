@@ -12,3 +12,10 @@ body {
     background-color: rgb(30, 29, 29);
     
 }
+
+.header ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    color: white;
+}
